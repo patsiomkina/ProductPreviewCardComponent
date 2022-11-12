@@ -30,10 +30,10 @@ img {
     /* height: 900px; */
     /* border-radius: 10px; */
     /* display: block; */
-    max-width: 300px;
-    max-height: 450px;
+    max-width: 600px;
+    max-height: 900px;
     width: 50%;
-    /* height: 50%; */
+    height: 50%;
 }
 
 .info {
@@ -85,13 +85,14 @@ p {
     text-decoration: line-through;
     font-size: 12px;
     margin-left: 20px;
+    font-weight: lighter;
 }
 
 .button {
     background-color: hsl(158, 36%, 37%);
     color: hsl(0, 0%, 100%);
     border: none;
-    padding: 15px;
+    padding: 16px;
     border-radius: 10px;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
